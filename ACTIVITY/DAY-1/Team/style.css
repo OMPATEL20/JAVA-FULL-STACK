@@ -1,0 +1,10 @@
+.container{
+    background-color:burlywood;
+    box-shadow: yellow;
+    max-width: 500px;
+    margin-top: 50px;
+    margin-left: 400px;
+    height: 400px;
+    text-align: center;
+    
+}
